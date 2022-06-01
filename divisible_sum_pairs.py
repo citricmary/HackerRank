@@ -7,4 +7,4 @@ for i in range(len(ar)):
         if i < j:
             if (ar[i] + ar[j]) % k == 0:
                 counter += 1
-print(counter)
+print(counter) 
